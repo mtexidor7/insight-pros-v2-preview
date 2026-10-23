@@ -1,1 +1,18 @@
-# No redirects yet
+# Permanent redirects from the previous WordPress site (insightproexperts.com, sitemap read 2026-10-23).
+# Merged into public/_redirects by tools/build-blog.mjs. Format: old-path new-path 301 (Cloudflare Pages / Netlify).
+# Not redirected on purpose (empty WooCommerce and archive pages, left to return 404):
+#   /shop/ /cart/ /checkout/ /my-account/ /category/uncategorized/ /author/mtexidor7/
+/about-2/ /about/ 301
+/contact-2/ /contact/ 301
+/blogs/ /blog/ 301
+/hello-world/ /blog/ 301
+/web-design/ /services/websites-and-custom-apps/ 301
+/content-strategy/ /services/content-and-social-media/ 301
+/social-media-management/ /services/content-and-social-media/ 301
+/social-media-management-2/ /services/content-and-social-media/ 301
+/digital-marketing/ /services/marketing-and-search/ 301
+/digital-marketing-2/ /services/marketing-and-search/ 301
+/sales-marketing/ /services/marketing-and-search/ 301
+/aeo/ /services/marketing-and-search/ 301
+/aeo-2/ /services/marketing-and-search/ 301
+/seo-2/ /services/marketing-and-search/ 301
